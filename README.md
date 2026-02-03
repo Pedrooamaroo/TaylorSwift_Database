@@ -6,7 +6,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple.svg)](https://getbootstrap.com/)
 
 ## 🎯 Project Overview
-This project demonstrates end-to-end database management and full-stack development skills. I designed a normalized **Relational Database** to map Taylor Swift's entire discography—connecting Songs, Albums, Lyrics, and Staff (Producers, Writers, Artists)—and built a **Flask Web Application** to query, visualize, and analyze the data interactively.
+This project demonstrates end-to-end database management and full-stack development skills. I designed a normalized **Relational Database** to map Taylor Swift's entire discography—connecting Songs, Albums, Lyrics, and Staff (Producers, Writers, Artists), and built a **Flask Web Application** to query, visualize, and analyze the data interactively.
 
 The goal was to move beyond simple spreadsheets and create a structured SQL system capable of handling complex Many-to-Many relationships and advanced analytical queries.
 
