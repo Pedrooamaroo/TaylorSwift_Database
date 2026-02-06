@@ -55,7 +55,7 @@ I implemented a highly normalized schema to ensure data integrity and efficiency
 ## 🛠️ Installation & Usage
 
 ### 1. Prerequisites
-Ensure you have Python installed. The project runs within a Jupyter Notebook for interactive demonstration.
+Ensure you have Python installed. Run the application using: python app.py
 
 ### 2. Clone & Setup
 ```bash
