@@ -1,8 +1,7 @@
 from flask import Flask, g, request
 from flask import render_template_string
 import sqlite3
-from werkzeug.serving import run_simple
-from IPython.core.display import display, HTML
+
 
 # Configure Flask
 app = Flask(__name__)
@@ -643,4 +642,5 @@ def questions():
 
 
 if __name__ == "__main__":
+
     app.run(debug=True)
